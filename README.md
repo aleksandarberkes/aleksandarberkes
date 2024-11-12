@@ -8,7 +8,7 @@ Hi my name is Aleksandar 👋 and I'm a full stack mobile developer focusing on 
 
 * 🌍  I'm based in Subotica, Serbia
 * ✉️  You can contact me at [aleksandarberkes2005@gmail.com](mailto:aleksandarberkes2005@gmail.com)
-* 🚀  I'm currently working on [eNotify](http://play.google.com/store/apps/details?id=com.enotifyapp)
+* 🚀  I'm currently working on [eNotify](http://play.google.com/store/apps/details?id=com.enotifyapp) and [Zakazi](https://play.google.com/store/apps/details?id=com.zakazi)
 
 <a href="https://www.github.com/aleksandarberkes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aleksandarberkes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
